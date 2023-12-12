@@ -1,0 +1,26 @@
+p {color:rgb(249, 80, 46);}
+
+img{width: 450px; max-width: 80%;}
+
+div{background-color: rgb(233, 202, 216);}
+div{font-size: 200%;}
+
+h1 {color:brown}
+
+h2 {color:crimson}
+
+
+.fancy {text-align: center;}
+
+img {float: left;}
+ol {color: rgb(22, 194, 221);}
+
+body {background-color: beige;}
+ 
+.fancy {color: rgb(59, 0, 17);}
+
+ul {font-size: 150%;}
+
+p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+div {border:5px double rgb(51, 0, 255)}
